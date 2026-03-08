@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi 👋 I'm Salem Zakkar</h1>
 <h3 align="center">Mobile & Backend Developer</h3>
 
 <p align="center">
-Building scalable mobile apps and backend systems.<br>
-Flutter • Kotlin Plugins • Node.js • Databases • Systems Programming
+Building scalable mobile apps and backend systems.
 </p>
 
 ---
@@ -54,27 +53,11 @@ I enjoy designing performant architectures, building cross-platform apps, and cr
 - High-performance **REST APIs**
 - **Custom Flutter plugins** using Kotlin
 - **Scalable backend systems**
-- Database-driven platforms
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
-</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOURNAME  
-- 📧 Email: your@email.com  
-- 🌍 Portfolio: yourwebsite.com
-
----
-
-<p align="center">
-⚡ Building reliable mobile + backend systems
-</p>
+- 💼 LinkedIn: https://linkedin.com/in/SalemZakkar
+- 📧 Email: salemzakkar.work@gmail.com  
+- 🌍 Portfolio: salemzakkar.github.io
