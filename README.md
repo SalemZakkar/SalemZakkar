@@ -11,7 +11,7 @@ Building scalable mobile apps and backend systems.
 
 - 💼 LinkedIn: https://linkedin.com/in/SalemZakkar
 - 📧 Email: salemzakkar.work@gmail.com  
-- 🌍 Portfolio: salemzakkar.github.io
+- 🌍 Portfolio: https://salemzakkar.github.io
 
 ---
 
@@ -26,7 +26,6 @@ I enjoy designing performant architectures, building cross-platform apps, and cr
 - 📱 Mobile: Flutter development & Kotlin native plugins
 - ⚙️ Backend: ExpressJS & NestJS
 - 🗄 Databases: PostgreSQL, MySQL, MongoDB
-- 🧠 Systems programming with C++
 - 🔧 Interested in scalable architecture and performance
 
 ---
