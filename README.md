@@ -7,6 +7,14 @@ Building scalable mobile apps and backend systems.
 
 ---
 
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/SalemZakkar
+- 📧 Email: salemzakkar.work@gmail.com  
+- 🌍 Portfolio: salemzakkar.github.io
+
+---
+
 ## 👨‍💻 About Me
 
 🎓 **Informatics Engineering Graduate**  
@@ -53,11 +61,3 @@ I enjoy designing performant architectures, building cross-platform apps, and cr
 - High-performance **REST APIs**
 - **Custom Flutter plugins** using Kotlin
 - **Scalable backend systems**
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/SalemZakkar
-- 📧 Email: salemzakkar.work@gmail.com  
-- 🌍 Portfolio: salemzakkar.github.io
