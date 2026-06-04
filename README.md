@@ -11,7 +11,7 @@ Building scalable mobile apps and backend systems.
 
 - 💼 LinkedIn: https://linkedin.com/in/SalemZakkar
 - 📧 Email: salemzakkar.work@gmail.com  
-- 🌍 Portfolio: https://salemzakkar.vercel.app/
+- 🌍 Portfolio: https://salemzakkar.online/
 
 ---
 
